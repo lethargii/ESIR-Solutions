@@ -1,8 +1,8 @@
-site_name: ESIR2 - Remote English
+site_name: ESIR - Solutions
 
-site_url: https://lethargii.github.io/ESIR2-RemoteEnglish/
+site_url: https://lethargii.github.io/ESIR-Solutions/
 
-repo_url: https://github.com/lethargii/ESIR2-RemoteEnglish
+repo_url: https://github.com/lethargii/ESIR-Solutions
 
 theme:
   name: material
@@ -46,6 +46,6 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:l.sevault@proton.me
     - icon: fontawesome/brands/github
-      link: https://github.com/lethargii/ESIR2-RemoteEnglish
+      link: https://github.com/lethargii/ESIR-Solutions
 
 copyright: Copyright &copy; 2026 Lucien Sevault Wolber
